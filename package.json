@@ -1,0 +1,9 @@
+{
+  "name": "fireworks-catering-site-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reusable FireWorks catering website template",
+  "scripts": {
+    "test": "node tests/site-check.mjs"
+  }
+}
