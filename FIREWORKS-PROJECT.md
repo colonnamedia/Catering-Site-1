@@ -105,8 +105,7 @@ Hosting, domains and integrations are never discounted as part of build pricing.
 
 ## Optional add-ons (separate, priced after scope)
 
-- Additional menu or event landing page: from $249/page
-- Additional service-area landing page: from $199/page
+- Additional menu, event or service-area page: $125/page through the standard checkout
 - Menu CMS / client editing: from $499 setup
 - Proposal or CRM routing integration: from $499
 - Secure online ordering integration: from $899
@@ -133,20 +132,19 @@ Third-party subscriptions and transaction fees are not included.
 - `assets/gallery-corporate.webp` — original purpose-generated corporate-event image.
 - `assets/gallery-grazing.webp` — original purpose-generated grazing/event-detail image.
 
-All assets are original image-generation outputs created for this catering workflow, then stripped and optimized locally as WebP files (approximately 108–120 KB each). Replace with rights-cleared client imagery when appropriate.
-
-**Hero prompt direction:** Photorealistic editorial catering professional actively finishing an event buffet; subject and food held in the right-center; darker negative space on the left for headline legibility; central mobile-safe focal area; olive, cream, terracotta, natural wood and warm late-afternoon light; no text, logo, watermark or branded product.
+All assets are optimized WebP files. Replace with rights-cleared client imagery when appropriate.
 
 ## Verification record
 
-- Automated `npm test` checks every page, asset reference, required inquiry field, schema, demo disclosure and price.
-- Demo form verified to validate locally without a form action, request API or browser storage.
-- Generated hero and gallery assets checked for optimized WebP output and declared dimensions.
-- Desktop and mobile visual checks completed against the deployed pages.
-- Production deployment, clean routes, navigation and assets checked.
-- Storefront thumbnail uses the live hero/template imagery.
-- Storefront build price, annual-first hosting tiers, monthly alternatives and domain fee checked.
-- Provider gates and demo disclosures checked.
+- HTML pages and internal navigation checked
+- Required inquiry fields checked
+- Demo form verified to validate locally without requests or storage
+- Generated hero and gallery assets checked for optimized WebP output
+- Desktop and mobile visual checks completed
+- Production deployment and routes checked
+- Storefront thumbnail uses the live hero/template imagery
+- Storefront price and hosting copy checked
+- Provider gates and demo disclosures checked
 
 ## Commits
 
@@ -159,5 +157,4 @@ All assets are original image-generation outputs created for this catering workf
 2. **Rustic gathering** — warmer wood, hand-lettered accents and farm-to-table imagery.
 3. **Corporate clean** — crisp grid, blue/charcoal palette and simplified ordering emphasis.
 4. **Luxury wedding** — softer neutrals, serif display type and elevated reception imagery.
-
 
