@@ -148,8 +148,10 @@ All assets are optimized WebP files. Replace with rights-cleared client imagery 
 
 ## Commits
 
-- Template repository commit: recorded in GitHub/Vercel deployment history
-- Storefront repository commit: recorded in `colonnamedia/fire-works-web-BASE44`
+- Template build: `1319ce198f1cbfd12149a50bf7b132d64e0e3871`
+- Template pricing handoff alignment: `65357ef03498ab02c5c531cb76c73c2f532d8415`
+- Storefront publish: `c21f1fb9eb41d0b2053aa2e3180b89e7c5e35eaf`
+- Storefront pricing alignment: `358ecd063eb8028c2b835d773946324f965d3e36`
 
 ## Future design variants
 
