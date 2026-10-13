@@ -105,7 +105,7 @@ Hosting, domains and integrations are never discounted as part of build pricing.
 
 ## Optional add-ons (separate, priced after scope)
 
-- Additional menu, event or service-area page: $125/page
+- Additional menu, event or service-area page: $125/page through the standard checkout
 - Menu CMS / client editing: from $499 setup
 - Proposal or CRM routing integration: from $499
 - Secure online ordering integration: from $899
@@ -149,8 +149,13 @@ All assets are original image-generation outputs created for this catering workf
 
 ## Commits
 
-- Template repository commit: recorded in GitHub/Vercel deployment history
-- Storefront repository commit: recorded in `colonnamedia/fire-works-web-BASE44`
+- Template build: `1319ce198f1cbfd12149a50bf7b132d64e0e3871`
+- Final generated imagery: `caa56656d9f0f6748b24389528a661ed3cc9912d`
+- Automated verification and handoff: `030c6880f2c6720edaacbdb2a8905c13312014c6`
+- Template pricing alignment: `3b29cf60b08845061f928f4ced7aed69ac41b085`
+- Storefront publish: `c21f1fb9eb41d0b2053aa2e3180b89e7c5e35eaf`
+- Storefront pricing alignment: `358ecd063eb8028c2b835d773946324f965d3e36`
+- Final storefront hero: `7ab1de9887bd8ae9320ad32190594923e5f136db`
 
 ## Future design variants
 
