@@ -52,7 +52,7 @@ p { margin: 0; }
 .nav-links a { color: #e8ede9; font-size: .87rem; font-weight: 700; text-decoration: none; }
 .nav-links a:hover, .nav-links a[aria-current="page"] { color: #fff; }
 .nav-cta { padding: 11px 17px; color: var(--olive) !important; background: var(--cream); border-radius: 999px; }
-.menu-toggle { display: none; width: 44px; height: 44px; color: white; background: transparent; border: 1px solid rgba(255,255,255,.2); border-radius: 50%; }
+.menu-toggle { display: none; min-width: 64px; padding: 0 12px; height: 44px; font-size: 13px; font-weight: 700; color: white; background: transparent; border: 1px solid rgba(255,255,255,.2); border-radius: 50%; }
 
 .hero { min-height: 760px; display: grid; align-items: center; position: relative; color: #fff; background: var(--ink) url('../assets/hero-catering.webp') center/cover no-repeat; overflow: hidden; }
 .hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(11,18,13,.9) 0%, rgba(11,18,13,.72) 39%, rgba(11,18,13,.16) 67%, rgba(11,18,13,.08)); }
@@ -207,3 +207,6 @@ p { margin: 0; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+/* Keep the catering photograph visible before the mobile headline. */
+@media(max-width:740px){.hero{min-height:0;display:block;padding-top:290px;background:#0b120d}.hero::before{inset:0 0 auto;height:290px;background:linear-gradient(0deg,rgba(11,18,13,.22),transparent 40%),url("../assets/hero-catering.webp") 69% center/cover no-repeat}.hero::after{display:none}.hero-content{padding:34px 0 64px}}
